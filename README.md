@@ -39,7 +39,7 @@ Baseline threshold:
 
 Confusion matrix:
 
-![Confusion Matrix](artifacts/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ## Threshold Tuning
 A custom threshold was applied to improve sensitivity to the `defect` class.
