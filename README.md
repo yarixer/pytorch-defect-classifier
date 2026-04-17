@@ -10,7 +10,7 @@ The goal is to classify a pharmaceutical sample image as:
 This simulates a basic visual quality inspection pipeline.
 
 ## Dataset
-The dataset was built from [MVTec AD categories]([https://example.com](https://www.mvtec.com/research-teaching/datasets/mvtec-ad)):
+The dataset was built from MVTec AD categories [Link](https://www.mvtec.com/research-teaching/datasets/mvtec-ad) :
 - `pill`
 - `capsule`
 
