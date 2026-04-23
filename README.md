@@ -19,6 +19,8 @@ The dataset was built from MVTec AD categories:
 - `pill`
 - `capsule`
 
+[source](https://www.mvtec.com/research-teaching/datasets/mvtec-ad)
+
 A custom supervised split was created:
 - `train`
 - `val`
