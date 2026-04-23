@@ -11,15 +11,12 @@ The current dataset combines two pharmaceutical object types:
 - `pill`
 - `capsule`
 
-> [!NOTE]
-> See an example in the .github folder
+See an example in the .github folder
 
 ## Dataset
-The dataset was built from MVTec AD categories:
+The dataset was built from [MVTec AD](https://www.mvtec.com/research-teaching/datasets/mvtec-ad) categories:
 - `pill`
 - `capsule`
-
-[source](https://www.mvtec.com/research-teaching/datasets/mvtec-ad)
 
 A custom supervised split was created:
 - `train`
