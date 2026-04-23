@@ -6,6 +6,9 @@ The model classifies an input image as:
 - `good`
 - `defect`
 
+> [!NOTE]
+> See an example in the .github folder
+
 The current dataset combines two pharmaceutical object types:
 
 - `pill`
